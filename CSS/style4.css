@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 2px solid red;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+}
+
+.class {
+    background: #00521F;
+    background: linear-gradient(195deg, rgba(0, 82, 31, 1) 0%, rgba(0, 97, 52, 1) 100%);
+    padding: 20px;
+    text-align: center;
+}
+
+.class h1 {
+    color: white;
+    margin: 0;
+}
+
+.class1 {
+    margin-top: 10px;
+}
+
+.class1 a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.class1 a:hover {
+    color: #cccccc;
+}
+
+.class2 {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.class2 h2 {
+    color: #5b2071;
+    margin-bottom: 20px;
+}
+
+.class3 {
+    margin-top: 172px;
+    background: #00521F;
+    background: linear-gradient(195deg, rgba(0, 82, 31, 1) 0%, rgba(0, 97, 52, 1) 100%);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+form input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form textarea {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
